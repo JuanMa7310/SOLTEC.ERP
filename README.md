@@ -1,6 +1,5 @@
 # SOLTEC.ERP
 
-![image](https://img.shields.io/badge/license-GPL-3.svg)
 ![image](https://img.shields.io/badge/license-LGPL-3.svg)
 
 **SOLTEC.ERP** (**Enterprise Resources Planning**). The concept refers to a type of software that enables the integration of a company's processes, systems and tools into a centralized platform. By definition, it standardizes workflows and improves operational efficiency and increases team productivity, which is achieved through a unified view of data and process automation.
