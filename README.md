@@ -21,7 +21,11 @@ This software can be complemented with:
 
 # Installation
 
+
+
 # Building
+
+
 
 #### With Visual Studio 2022
 
