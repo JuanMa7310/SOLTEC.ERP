@@ -39,7 +39,7 @@ Cite this work as:
 
 ```bibtex
 @misc{soltec2024erp,
-    title={The SOLTEC.ERP ERP},
+    title={SOLTEC.ERP},
     author={Juan Manuel Pardo García SOLTEC and SOLTEC.ERP contributors},
     year={2024},
     url={http://www.SOLTEC.com/SIGE/ERP}

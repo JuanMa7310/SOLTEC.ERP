@@ -45,7 +45,7 @@ Cite este trabajo como:
 
 ```bibtex
 @misc{soltec2024erp,
-  title={El ERP SOLTEC.ERP},
+  title={SOLTEC.ERP},
   author={Juan Manuel Pardo García SOLTEC y SOLTEC.ERP contribuidores},
   year={2024},
   url={http://www.SOLTEC.com/SIGE/ERP}
