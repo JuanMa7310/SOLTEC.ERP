@@ -27,7 +27,11 @@ Este software, se puede complementar con :
 
 # Instalación
 
+
+
 # Construyendo
+
+
 
 #### Con Visual Studio 2022
 
